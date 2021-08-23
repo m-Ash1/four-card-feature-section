@@ -27,11 +27,12 @@ Users should be able to:
 
 ![desktop view](./screenshots/project-5.PNG)
 <p align="center">
-  <img src="./screenshots/project-5-mobile.png">
-</p>
 <p align="center">
   <img src="./screenshots/project-5-IPAD.png">
 </p>
+  <img src="./screenshots/project-5-mobile.png">
+</p>
+
 
 ## My process
 
